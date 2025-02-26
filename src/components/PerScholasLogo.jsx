@@ -14,4 +14,4 @@ function PerScholasLogo() {
   )
 }
 
-export default PerScholasLogo
+export default PerScholasLogo;
